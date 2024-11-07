@@ -9,6 +9,8 @@
 ### GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;"> <a href="https://github.com/0xGery"> <img height="195px" src="https://github-readme-stats.vercel.app/api?username=0xGery&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/> <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGery&layout=compact&langs_count=7&theme=one_dark_pro"/> </a> </div>
+
+<div align="center" style="display: flex; justify-content: center;"> <a href="https://github.com/0xGery"> <img height="180px" src="https://github-readme-stats.vercel.app/api?username=0xGery&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGery&layout=compact&langs_count=8&theme=one_dark_pro"/> </a> </div>
     
 ### Contact
 <div> 
