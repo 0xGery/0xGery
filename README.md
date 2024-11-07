@@ -11,9 +11,11 @@
     
 ### Contact
 <div> 
-    <a href="https://x.com/NullxGery" target="_blank" style="margin-right: 10px;">
+    <a href="https://x.com/NullxGery" target="_blank">
         <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/twitter.svg" width="20" height="20" alt="Twitter">
     </a>
+</div>
+<div>
     <a href="https://t.me/NullxGery" target="_blank">
         <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/telegram.svg" width="20" height="20" alt="Telegram">
     </a>
