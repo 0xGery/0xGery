@@ -11,7 +11,14 @@
     
 ### Contact
 <div> 
-    <a href="https://x.com/NullxGery" target="_blank"><img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/twitter.svg"></a> 
-    <a href="mailto:0xgery@proton.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://t.me/NullxGery" target="_blank"><img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/telegram.svg"></a>
+    <a href="https://x.com/NullxGery" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/twitter.svg" width="30" height="30" alt="Twitter">
+    </a> 
+    <a href="mailto:0xgery@proton.me">
+        <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a> 
+    <a href="https://t.me/NullxGery" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/telegram.svg" width="30" height="30" alt="Telegram">
+    </a>
 </div>
+
