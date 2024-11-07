@@ -12,10 +12,12 @@
 ### Contact
 <div> 
     <a href="https://x.com/NullxGery" target="_blank">
-        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/twitter.svg" width="10" height="10" alt="Twitter">
+        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/twitter.svg" width="15" height="15" alt="Twitter">
     </a>
+</div>
+<div>        
         <a href="https://t.me/NullxGery" target="_blank">
-        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/telegram.svg" width="10" height="10" alt="Telegram">
+        <img src="https://raw.githubusercontent.com/0xGery/Fullstack/refs/heads/main/Frontend/src/Assets/social/telegram.svg" width="15" height="15" alt="Telegram">
     </a>
 </div>
 
