@@ -57,10 +57,10 @@ I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building
     </a>
 </div>
 
-## 🎯 Current Focus
-- 🔭 Developing Quanta's core smart contracts and risk management systems
-- 🌱 Researching advanced liquidation mechanisms and oracle implementations
-- 👯 Looking to collaborate with DeFi developers and quantum physics enthusiasts
+## Current Focus
+- Developing Quanta's core smart contracts and risk management systems
+- Researching advanced liquidation mechanisms and oracle implementations
+- Looking to collaborate with DeFi developers
 
 ## Featured Project: Quanta
 <div align="center">
