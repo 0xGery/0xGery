@@ -61,8 +61,9 @@ I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building
 - Developing Quanta's core smart contracts and risk management systems
 - Researching advanced liquidation mechanisms and oracle implementations
 - Looking to collaborate with DeFi developers
+- Developing 0xio: A privacy-focused wallet ecosystem built on the Octra blockchain network.
 
-## Featured Project: Quanta
+## Featured Project: 0xio
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Type-DeFi%20Protocol-blue?style=for-the-badge"/>
