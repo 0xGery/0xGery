@@ -63,7 +63,7 @@ I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building
 - Looking to collaborate with DeFi developers
 - Developing 0xio: A privacy-focused wallet ecosystem built on the Octra blockchain network.
 
-## Featured Project: 0xio
+## Featured Project: [0xio](https://github.com/0xio-xyz)
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Type-DeFi%20Protocol-blue?style=for-the-badge"/>
