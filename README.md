@@ -4,7 +4,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building decentralized finance solutions.
 
 ## Tech Stack
@@ -37,7 +37,7 @@ I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xGery&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -61,7 +61,7 @@ I'm a passionate DeFi developer and Web3 enthusiast, deeply involved in building
 - Developing Quanta's core smart contracts and risk management systems
 - Researching advanced liquidation mechanisms and oracle implementations
 - Looking to collaborate with DeFi developers
-- Developing 0xio: A privacy-focused wallet ecosystem built on the Octra blockchain network.
+- Developing 0xio: A privacy-focused wallet ecosystem built on Octra network.
 
 ## Featured Project: [0xio](https://github.com/0xio-xyz)
 <div align="center">
